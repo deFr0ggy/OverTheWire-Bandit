@@ -1,7 +1,9 @@
 # BANDIT OVERTHEWIRE (1-10) Solutions
-> Author: Frog Man
-> Twitter: https://twitter.com/deFr0ggy
-> LinkedIn: https://linkedin.com/in/kamransaifullah
+```
+Author: Frog Man
+Twitter: https://twitter.com/deFr0ggy
+LinkedIn: https://linkedin.com/in/kamransaifullah
+```
 
 ## Level 0
 ```
